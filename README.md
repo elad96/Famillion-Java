@@ -2,8 +2,6 @@
 
 Project Video: https://www.youtube.com/watch?v=9oyCdXCnq2E
 
-![Famillion](https://user-images.githubusercontent.com/7150655/122900189-2288be80-d355-11eb-8568-467aa4dc73af.png)
-
 **Introduction:** This project is about family financial management software - which combines usefull features for database managing of transaction entries divided into categories, and financial evaluation chart.
 
 **Architecture:** The project uses MVVM architecture:
